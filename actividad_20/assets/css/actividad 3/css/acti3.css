@@ -1,0 +1,40 @@
+body{
+    background-color: green;
+}
+.caja{
+    width: 500px;
+    height: 100px;
+    font-size: 50px;
+    margin: 10px;
+}
+.blanca{
+    background-color: white;
+    border: 10px solid black;
+    border-radius: 15px 15px 15px 15px;
+}
+.naranja{
+    margin: 0,0,100px;
+    background-color: orange;
+    border: 10px solid orangered;
+    border-radius: 15px 15px 15px 15px;
+    margin-left: 800px;
+}
+.casinaranja{
+    margin: 0,0,100px;
+    background-color: rgb(212, 168, 86);
+    border: 10px solid rgba(180, 80, 44, 0.548);
+    border-radius: 15px 15px 15px 15px;
+   
+}
+.azul{
+    background-color: blue;
+    border: 10px dashed rgb(3, 3, 20);
+    border-radius: 15px 15px 15px 15px;
+}
+h1{
+    color: white;
+    text-shadow: black 0 3px;
+}
+h5{
+    color: white;
+}
